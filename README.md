@@ -203,7 +203,6 @@ This project leverages **Financial Services & Cards Practice training** from Cap
 
 - **Dataset Source:** Kaggle - Credit Card Fraud Detection
 - **Training:** Capgemini Technology Services - Financial Services & Cards Practice
-- **Mentor:** Mansi Goel (YouTube) - Data Analytics guidance
 
 **Last Updated:** August 2026  
 **Project Status:** Complete ✅
