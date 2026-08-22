@@ -1,0 +1,41 @@
+##Feature Importance
+
+The Random Forest model was used to identify the features that contributed most to the fraud classification. Feature importance represents the relative contribution of each feature to the model's decision-making process.
+
+| Rank | Feature | Importance |
+|---:|---|---:|
+| 1 | V14 | 0.204702 |
+| 2 | V4 | 0.116355 |
+| 3 | V10 | 0.088658 |
+| 4 | V17 | 0.076270 |
+| 5 | V12 | 0.075435 |
+| 6 | V11 | 0.070017 |
+| 7 | V16 | 0.056166 |
+| 8 | V3 | 0.047437 |
+| 9 | V7 | 0.039846 |
+| 10 | V21 | 0.026362 |
+| 11 | V2 | 0.026103 |
+| 12 | V18 | 0.019750 |
+| 13 | V9 | 0.016464 |
+| 14 | V1 | 0.014277 |
+| 15 | V19 | 0.012128 |
+| 16 | V5 | 0.011875 |
+| 17 | V8 | 0.011279 |
+| 18 | V6 | 0.010377 |
+| 19 | V27 | 0.008435 |
+| 20 | V13 | 0.007123 |
+| 21 | V26 | 0.006656 |
+| 22 | V20 | 0.006504 |
+| 23 | Time | 0.006465 |
+| 24 | V28 | 0.006248 |
+| 25 | V25 | 0.006227 |
+| 26 | Amount | 0.005475 |
+| 27 | V15 | 0.005228 |
+| 28 | V23 | 0.004941 |
+| 29 | LogAmount | 0.004791 |
+| 30 | V22 | 0.004452 |
+| 31 | V24 | 0.003929 |
+| 32 | Transaction_Velocity | 0.000023 |
+| 33 | Hour | 0 |
+| 34 | TimePeriod | 0 |
+| 35 | AmountCategory | 0 |
