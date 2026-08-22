@@ -106,7 +106,6 @@ Created 5 new features based on financial domain knowledge:
 Credit-Card-Fraud-Detection/
 ├── README.md                          # Project documentation
 ├── requirements.txt                   # Python dependencies
-├── LICENSE                            # MIT License
 │
 ├── notebooks/
 │   └── Fraud_Detection_Analysis.ipynb # Complete Python analysis
