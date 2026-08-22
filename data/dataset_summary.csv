@@ -1,0 +1,24 @@
+## Dataset Summary
+
+The dataset contains **284,807 credit card transactions**, of which only **492 transactions are fraudulent**. This highlights the highly imbalanced nature of the dataset, where fraudulent transactions represent only a very small percentage of the total transactions.
+
+| Metric | Value |
+|---|---:|
+| Total Transactions | 284,807 |
+| Fraudulent Transactions | 492 |
+| Legitimate Transactions | 284,315 |
+| Fraud Percentage | 0.17% |
+| Average Transaction Amount | $88.35 |
+| Maximum Transaction Amount | $25,691.16 |
+| Minimum Transaction Amount | $0.00 |
+
+### Key Observations
+
+- **284,807** total transactions are present in the dataset.
+- Only **492 transactions** are classified as fraudulent.
+- **284,315 transactions** are legitimate.
+- Fraudulent transactions account for approximately **0.17%** of all transactions.
+- The average transaction amount is **$88.35**.
+- The highest transaction amount is **$25,691.16**.
+- The minimum transaction amount is **$0.00**.
+- The significant class imbalance makes fraud detection challenging and highlights the importance of using appropriate evaluation metrics and balancing techniques.
